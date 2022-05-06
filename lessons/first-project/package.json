@@ -1,0 +1,23 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "first nodeJs Server Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test specified,",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelBrindha/Nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Angel Brindha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelBrindha/Nodejs/issues"
+  },
+  "homepage": "https://github.com/AngelBrindha/Nodejs#readme"
+}

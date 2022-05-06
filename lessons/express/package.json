@@ -1,0 +1,27 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Leaarning to use express in node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelBrindha/Nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Angel Brindha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelBrindha/Nodejs/issues"
+  },
+  "homepage": "https://github.com/AngelBrindha/Nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "nodemon": "^2.0.16"
+  }
+}

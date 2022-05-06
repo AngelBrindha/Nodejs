@@ -1,0 +1,26 @@
+{
+  "name": "second-project",
+  "version": "1.0.0",
+  "description": "Second project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test,",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelBrindha/Nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Angel Brindha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelBrindha/Nodejs/issues"
+  },
+  "homepage": "https://github.com/AngelBrindha/Nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
